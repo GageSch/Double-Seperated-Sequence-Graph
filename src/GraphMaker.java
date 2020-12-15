@@ -12,7 +12,7 @@ class Surface extends JPanel {
 	public static final int X_MIN = 1;
 	public static final long X_MAX = 10000;
 	public static final int Y_MIN = -50;
-	public static final long Y_MAX = 18320;
+	public static final long Y_MAX = 18310;
 	public static final double XRATIO = (double) WIDTH/(X_MAX - X_MIN);
 	public static final double YRATIO = (double) HEIGHT/(Y_MAX - Y_MIN);
 	public static final int RADIUS = 1;
